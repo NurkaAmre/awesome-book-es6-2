@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "hint": "^2.0.0"
+  },
+  "dependencies": {
+    "stylelint": "^14.13.0"
+  }
+}
